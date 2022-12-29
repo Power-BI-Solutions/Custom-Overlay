@@ -14,7 +14,7 @@
 ### Custom Measures
 
 ```dax
-
+Population M = DIVIDE(SUM(Population[Population]),1000000, "< 1 million")
 ``` 
 
 <br><br/>
