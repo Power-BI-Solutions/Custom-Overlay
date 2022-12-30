@@ -3,7 +3,7 @@
 
 ### Dashboard
 <p align="center">
-<img width="650em" src="" align = "center"/>
+<img width="650em" src="https://github.com/Power-BI-Solutions/Custom-Overlay/blob/main/Custom%20Overlay.gif" align = "center"/>
 </p>
 <br><br/>
 
@@ -22,7 +22,7 @@ Population M = DIVIDE(SUM(Population[Population]),1000000, "< 1 million")
 ### Model
 
 <p align="center">
-<img width="650em" src="" align = "center"/>
+<img width="650em" src="https://github.com/Power-BI-Solutions/Custom-Overlay/blob/main/custom_overlay_data.png" align = "center"/>
 </p>
 <br><br/>
 
